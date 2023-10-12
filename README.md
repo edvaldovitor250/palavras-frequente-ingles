@@ -1,4 +1,7 @@
-# PalavrasFrequenteIngles
+**# PalavrasFrequenteIngles
+
+https://github.com/edvaldovitor250/PalavrasFrequenteIngles/assets/116117189/038dbe2f-85ff-47d8-bc85-39e4cf481d52
+
 Compartilho com entusiasmo um projeto pessoal que recentemente desenvolvi!
 🚀 Trata-se de um software notável com a finalidade de analisar textos em inglês e exibir na tela a contagem de palavras repetidas.
 
@@ -14,3 +17,4 @@ Estou ansioso para receber feedbacks e sugestões que contribuam para aprimorar 
 Observação: Vale ressaltar que o software é versátil e pode ser aplicado a qualquer língua.
 
 Agradeço sinceramente a todos pela atenção e constante apoio! Juntos, seguimos na busca pelo conhecimento e aprimoramento profissional. 🌟📚
+**
