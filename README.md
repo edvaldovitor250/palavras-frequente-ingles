@@ -1,4 +1,4 @@
-<h1>🚀 Documentação: Analisador de Palavras Repetidas em Textos</h1>
+<h1>🚀 Analisador de Palavras Repetidas em Textos</h1>
     <h2>Índice</h2>
     <ol>
         <li><a href="#inspiracao-objetivos">Inspiração e Objetivos</a></li>
